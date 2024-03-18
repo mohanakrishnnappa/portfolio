@@ -361,9 +361,10 @@ main {
 }
 
 .avatar-box img {
-  background: var(--bg-gradient-onyx);
+  /* background: var(--bg-gradient-onyx); */
   border-radius: 20px;
   border: 2px solid white;
+  padding: 4px;
 }
 
 .info-content .name {
