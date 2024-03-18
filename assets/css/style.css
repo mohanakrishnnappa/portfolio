@@ -367,7 +367,7 @@ main {
   padding: 4px;
 }
 
-.info-content .name {
+.info-content #userName .name {
   color: var(--white-2);
   font-size: var(--fs-3);
   font-weight: var(--fw-500);
@@ -1505,7 +1505,7 @@ textarea.form-input::-webkit-resizer {
     width: 120px;
   }
 
-  .info-content .name {
+  .info-content #userName .name {
     margin-bottom: 15px;
   }
 
@@ -2115,7 +2115,7 @@ textarea.form-input::-webkit-resizer {
     padding-left: 3px;
   }
 
-  .info-content .name {
+  .info-content #userName .name {
     white-space: nowrap;
     text-align: center;
   }
@@ -2125,7 +2125,7 @@ textarea.form-input::-webkit-resizer {
   }
 
   .info-content h1 {
-    font-size: 20px !important;
+    font-size: 18px !important;
   }
 
   .info_more-btn {
