@@ -2103,7 +2103,7 @@ textarea.form-input::-webkit-resizer {
     width: 150px;
   }
 
-  #userName {
+  /* #userName {
     display: flex !important;
     justify-content: center !important;
     align-items: center !important;
@@ -2113,7 +2113,7 @@ textarea.form-input::-webkit-resizer {
     height: 15px !important;
     padding-left: 5px !important;
     margin-bottom: 10px !important;
-  }
+  } */
 
   .info-content #userName .name {
     white-space: nowrap;
