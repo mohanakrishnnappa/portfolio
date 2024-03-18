@@ -2111,6 +2111,10 @@ textarea.form-input::-webkit-resizer {
     margin: auto;
   }
 
+  .info-content h1 {
+    font-size: 20px !important;
+  }
+
   .info_more-btn {
     display: none;
   }
