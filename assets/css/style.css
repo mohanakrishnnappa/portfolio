@@ -2104,6 +2104,17 @@ textarea.form-input::-webkit-resizer {
     width: 150px;
   }
 
+  #userName {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #userName img {
+    height: 15px;
+    padding-left: 3px;
+  }
+
   .info-content .name {
     white-space: nowrap;
     text-align: center;
