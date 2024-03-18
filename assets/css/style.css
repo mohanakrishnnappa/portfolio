@@ -363,6 +363,7 @@ main {
 .avatar-box img {
   background: var(--bg-gradient-onyx);
   border-radius: 20px;
+  border: 2px solid white;
 }
 
 .info-content .name {
