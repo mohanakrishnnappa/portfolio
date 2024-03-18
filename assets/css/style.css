@@ -1510,7 +1510,7 @@ textarea.form-input::-webkit-resizer {
   }
 
   .info-content .title {
-    padding: 5px 18px;
+    /* padding: 5px 18px; */
   }
 
   .info_more-btn {
@@ -2110,7 +2110,7 @@ textarea.form-input::-webkit-resizer {
   }
 
   .info-content .title {
-    margin: auto;
+    /* margin: auto; */
   }
 
   .info-content h1 {
