@@ -383,6 +383,7 @@ main {
   width: max-content;
   padding: 3px 12px;
   border-radius: 8px;
+  display: inline;
 }
 
 .info_more-btn {
