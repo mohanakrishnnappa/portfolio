@@ -373,6 +373,7 @@ main {
   font-weight: var(--fw-500);
   letter-spacing: -0.25px;
   /* margin-bottom: 10px; */
+  margin-bottom: 0;
 }
 
 .info-content .title {
