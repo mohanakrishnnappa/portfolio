@@ -2104,16 +2104,16 @@ textarea.form-input::-webkit-resizer {
     width: 150px;
   }
 
-  #userName {
+  /* #userName {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+  } */
 
-  #userName img {
+  /* #userName img {
     height: 15px;
     padding-left: 3px;
-  }
+  } */
 
   .info-content #userName .name {
     white-space: nowrap;
