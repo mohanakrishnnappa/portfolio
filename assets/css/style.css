@@ -1506,7 +1506,7 @@ textarea.form-input::-webkit-resizer {
   }
 
   .info-content #userName .name {
-    margin-bottom: 15px;
+    /* margin-bottom: 15px; */
   }
 
   .info-content .title {
